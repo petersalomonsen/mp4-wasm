@@ -1,5 +1,5 @@
 # replace this with your own emsdk path
-EMSDK="/Users/matt/prj/emsdk"
+EMSDK="~/emsdk"
 
 # EMSDK_NODE_BIN="$EMSDK/node/12.18.1_64bit/bin"
 EMSCRIPTEN="$EMSDK/upstream/emscripten"
